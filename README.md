@@ -41,5 +41,8 @@ I am an Information Technology graduate currently pursuing my studies in **Artif
 
 ### 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LMetal)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LMetal&show_icons=true&theme=vision-friendly-dark&ranking_badge=true" alt="LMetal's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LMetal&layout=compact&theme=vision-friendly-dark" alt="LMetal's Top Languages" />
+</p>
