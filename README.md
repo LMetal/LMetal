@@ -19,8 +19,7 @@ I am an Information Technology graduate currently pursuing my studies in **Artif
 - 🎓 **Education:** Degree in IT & Currently studying Artificial Intelligence @ UPO
 - 💻 **Core Interests:** AI/ML development, backend programming, and system optimization
 - 📬 **How to reach me:** [leogall2002@gmail.com](mailto:leogall2002@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/leonardo-galliera/)
-- ⚡ **Fun fact:** When I'm not coding or training models, I listen to a lot of music — Rock and Metal are my ultimate passion 🎸🔥
-
+- 
 ---
 
 ### 🛠️ Languages and Tools
