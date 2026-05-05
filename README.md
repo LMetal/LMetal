@@ -36,7 +36,9 @@ I am an Information Technology graduate currently pursuing my studies in **Artif
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org)
 [![SQLite](https://img.shields.io/badge/SQLite-074D5B?style=for-the-badge&logo=SQLite&logoColor=white)](https://www.sqlite.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
-
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/)
+[![Generative AI](https://img.shields.io/badge/Generative%20AI-7437FF?style=for-the-badge&logo=openai&logoColor=white)](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
 ---
 
 ### 📊 GitHub Stats
