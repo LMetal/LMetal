@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm LMetal</h1>
-<h3 align="center">Currently an IT student in Italy 🇮🇹</h3>
+<h1 align="center">Hi 👋, I'm Leonardo Galliera (LMetal)</h1>
+<h3 align="center">AI Student & Developer from Italy 🇮🇹</h3>
 
 <p align="center">
   <a href="https://github.com/LMetal">
     <img src="https://img.shields.io/github/followers/LMetal?label=Follow&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://www.linkedin.com/in/leonardo-galliera/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
@@ -11,8 +14,12 @@
 
 ### 👤 About Me
 
-- 📬 **How to reach me:** [leogall2002@gmail.com](mailto:leogall2002@gmail.com)
-- ⚡ **Fun fact:** I listen to a lot of music, rock and metal are my passion 🎸🔥
+I am an Information Technology graduate currently pursuing my studies in **Artificial Intelligence** at the **Università del Piemonte Orientale (UPO)**. I have a strong interest in software engineering, intelligent systems, and cloud architectures. 
+
+- 🎓 **Education:** Degree in IT & Currently studying Artificial Intelligence @ UPO
+- 💻 **Core Interests:** AI/ML development, backend programming, and system optimization
+- 📬 **How to reach me:** [leogall2002@gmail.com](mailto:leogall2002@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/leonardo-galliera/)
+- ⚡ **Fun fact:** When I'm not coding or training models, I listen to a lot of music — Rock and Metal are my ultimate passion 🎸🔥
 
 ---
 
